@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=300&section=header&text=kitty%20yakki&fontSize=90&fontColor=d6ace6)
 
 <h3 align="center">📚 Studying 📚</h3>
 <p align="center">coding study</p>
