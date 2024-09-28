@@ -4,7 +4,7 @@
 <p align="center">coding study</p>
 
 <h3 align="center">🛠 Tools 🛠</h3>
-<p align="center">studying JAVA HTML CSS SCRIPT </p>
+<p align="center">Frontend Backend</p>
 
 <h3 align="center">📫 Contact 📫</h3>
 <p align="center">nada9303@naver.com</p>
