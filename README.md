@@ -4,10 +4,10 @@
 <p align="center">coding study</p>
 
 <h3 align="center">🛠 Tools 🛠</h3>
-<p align="center">Frontend Backend</p>
+<p align="center">html css javascript</p>
 
 <h3 align="center">📫 Contact 📫</h3>
-<p align="center">nada9303@naver.com</p>
+<p align="center">kittyyakki@swu.ac.kr</p>
 
 <h3 align="center">Being smart Like a Snake</h3>
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="" style="max-width: 100%;">
