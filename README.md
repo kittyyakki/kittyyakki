@@ -1,15 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=300&section=header&text=kitty%20yakki&fontSize=90&fontColor=#fffff&font)
 
-<h3 align="center">📚 Studying 📚</h3>
-<p align="center">coding study</p>
-
 <h3 align="center">🛠 Tools 🛠</h3>
-<p align="center"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></p>
+<p align="center"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></p>
 
 <h3 align="center">📫 Contact 📫</h3>
 <p align="center">kittyyakki@swu.ac.kr</p>
 
-<h3 align="center">Being smart Like a Snake</h3>
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="" style="max-width: 100%;">
 
 [![stars](https://custom-icon-badges.demolab.com/github/stars/DenverCoder1/custom-icon-badges?logo=star)](https://custom-icon-badges.demolab.com/github/stars/DenverCoder1/custom-icon-badges?logo=star)
