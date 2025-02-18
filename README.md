@@ -4,7 +4,7 @@
 <p align="center">coding study</p>
 
 <h3 align="center">🛠 Tools 🛠</h3>
-<p align="center">html css javascript</p>
+<p align="center"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></p>
 
 <h3 align="center">📫 Contact 📫</h3>
 <p align="center">kittyyakki@swu.ac.kr</p>
